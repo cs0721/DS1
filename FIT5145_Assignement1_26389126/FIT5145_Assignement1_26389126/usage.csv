@@ -1,0 +1,50 @@
+,Year,State,Household,Manufacture
+0,2008-09,New South Wales,548,140
+1,2009-10,New South Wales,556,141
+2,2010-11,New South Wales,527,144
+3,2011-12,New South Wales,511,102
+4,2012-13,New South Wales,565,123
+5,2013-14,New South Wales,565,129
+6,2014-15,New South Wales,556,122
+7,2008-09,Victoria,331,143
+8,2009-10,Victoria,323,138
+9,2010-11,Victoria,311,144
+10,2011-12,Victoria,324,113
+11,2012-13,Victoria,357,129
+12,2013-14,Victoria,366,135
+13,2014-15,Victoria,367,140
+14,2008-09,South Australia,128,84
+15,2009-10,South Australia,123,76
+16,2010-11,South Australia,115,84
+17,2011-12,South Australia,121,75
+18,2012-13,South Australia,130,79
+19,2013-14,South Australia,125,79
+20,2014-15,South Australia,125,46
+21,2008-09,Western Australia,335,60
+22,2009-10,Western Australia,348,63
+23,2010-11,Western Australia,310,57
+24,2011-12,Western Australia,308,53
+25,2012-13,Western Australia,333,58
+26,2013-14,Western Australia,339,58
+27,2014-15,Western Australia,326,61
+28,2008-09,Tasmania,69,50
+29,2009-10,Tasmania,73,37
+30,2010-11,Tasmania,69,50
+31,2011-12,Tasmania,56,36
+32,2012-13,Tasmania,39,31
+33,2013-14,Tasmania,38,31
+34,2014-15,Tasmania,37,38
+35,2008-09,Northern Territory,39,22
+36,2009-10,Northern Territory,37,18
+37,2010-11,Northern Territory,31,23
+38,2011-12,Northern Territory,34,10
+39,2012-13,Northern Territory,32,10
+40,2013-14,Northern Territory,37,9
+41,2014-15,Northern Territory,35,0
+42,2008-09,Australian Capital Territory,27,0
+43,2009-10,Australian Capital Territory,28,0
+44,2010-11,Australian Capital Territory,25,0
+45,2011-12,Australian Capital Territory,26,1
+46,2012-13,Australian Capital Territory,30,1
+47,2013-14,Australian Capital Territory,31,1
+48,2014-15,Australian Capital Territory,29,0
